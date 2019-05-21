@@ -1,0 +1,43 @@
+c:\users\karurosu\documents\visual studio 2017\Projects\BlackJack-TareaProgramación2\Servidor-BlackJack\bin\Debug\Servidor-BlackJack.exe.config
+c:\users\karurosu\documents\visual studio 2017\Projects\BlackJack-TareaProgramación2\Servidor-BlackJack\bin\Debug\Servidor-BlackJack.exe
+c:\users\karurosu\documents\visual studio 2017\Projects\BlackJack-TareaProgramación2\Servidor-BlackJack\bin\Debug\Servidor-BlackJack.pdb
+c:\users\karurosu\documents\visual studio 2017\Projects\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.csprojResolveAssemblyReference.cache
+c:\users\karurosu\documents\visual studio 2017\Projects\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor_BlackJack.Acerca.resources
+c:\users\karurosu\documents\visual studio 2017\Projects\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor_BlackJack.Properties.Resources.resources
+c:\users\karurosu\documents\visual studio 2017\Projects\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor_BlackJack.Servidor.resources
+c:\users\karurosu\documents\visual studio 2017\Projects\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.csproj.GenerateResource.Cache
+c:\users\karurosu\documents\visual studio 2017\Projects\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.exe
+c:\users\karurosu\documents\visual studio 2017\Projects\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.pdb
+C:\Users\david\Downloads\BlackJack-TareaProgramacion2\BlackJack-TareaProgramación2\Servidor-BlackJack\bin\Debug\Servidor-BlackJack.exe.config
+C:\Users\david\Downloads\BlackJack-TareaProgramacion2\BlackJack-TareaProgramación2\Servidor-BlackJack\bin\Debug\Servidor-BlackJack.exe
+C:\Users\david\Downloads\BlackJack-TareaProgramacion2\BlackJack-TareaProgramación2\Servidor-BlackJack\bin\Debug\Servidor-BlackJack.pdb
+C:\Users\david\Downloads\BlackJack-TareaProgramacion2\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\david\Downloads\BlackJack-TareaProgramacion2\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor_BlackJack.Acerca.resources
+C:\Users\david\Downloads\BlackJack-TareaProgramacion2\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor_BlackJack.Properties.Resources.resources
+C:\Users\david\Downloads\BlackJack-TareaProgramacion2\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor_BlackJack.Servidor.resources
+C:\Users\david\Downloads\BlackJack-TareaProgramacion2\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.csproj.GenerateResource.cache
+C:\Users\david\Downloads\BlackJack-TareaProgramacion2\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\david\Downloads\BlackJack-TareaProgramacion2\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.exe
+C:\Users\david\Downloads\BlackJack-TareaProgramacion2\BlackJack-TareaProgramación2\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.pdb
+C:\Users\oscar\Desktop\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\bin\Debug\Servidor-BlackJack.exe.config
+C:\Users\oscar\Desktop\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\bin\Debug\Servidor-BlackJack.exe
+C:\Users\oscar\Desktop\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\bin\Debug\Servidor-BlackJack.pdb
+C:\Users\oscar\Desktop\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor_BlackJack.Acerca.resources
+C:\Users\oscar\Desktop\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor_BlackJack.Properties.Resources.resources
+C:\Users\oscar\Desktop\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor_BlackJack.Servidor.resources
+C:\Users\oscar\Desktop\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.csproj.GenerateResource.cache
+C:\Users\oscar\Desktop\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.exe
+C:\Users\oscar\Desktop\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.pdb
+C:\Users\Jose\Desktop\Proyecto de operativos\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\bin\Debug\Servidor-BlackJack.exe.config
+C:\Users\Jose\Desktop\Proyecto de operativos\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\bin\Debug\Servidor-BlackJack.exe
+C:\Users\Jose\Desktop\Proyecto de operativos\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\bin\Debug\Servidor-BlackJack.pdb
+C:\Users\Jose\Desktop\Proyecto de operativos\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\Proyecto de operativos\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor_BlackJack.Acerca.resources
+C:\Users\Jose\Desktop\Proyecto de operativos\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor_BlackJack.Properties.Resources.resources
+C:\Users\Jose\Desktop\Proyecto de operativos\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor_BlackJack.Servidor.resources
+C:\Users\Jose\Desktop\Proyecto de operativos\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\Proyecto de operativos\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Proyecto de operativos\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.exe
+C:\Users\Jose\Desktop\Proyecto de operativos\proyecto calificado\BlackJack-Operativos Proyecto\Servidor-BlackJack\obj\Debug\Servidor-BlackJack.pdb

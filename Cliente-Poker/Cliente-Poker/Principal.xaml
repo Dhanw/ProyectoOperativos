@@ -1,0 +1,47 @@
+﻿<Window x:Class="Cliente_Poker.Principal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cliente_Poker"
+        mc:Ignorable="d"
+        Title="Texas Holdem Poker" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\Jose\Desktop\Backuo\Cliente-Poker\images\green.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Border BorderThickness="2" BorderBrush="White" CornerRadius="0" Background="Transparent" HorizontalAlignment="Left" VerticalAlignment="Top" Width="172" Height="161" Margin="0,10,0,0">
+            <TextBlock Height="23" HorizontalAlignment="Center" Margin="44,8,29,0" x:Name="Apuestas" VerticalAlignment="Top" Width="95" RenderTransformOrigin="-0.658,0.391" FontSize="18" FontWeight="Bold" FontFamily="TImes New Roman" ><Run Text="Apuestas"/></TextBlock>
+        </Border>
+        <TextBlock Height="23" HorizontalAlignment="Right" Margin="0,52,687,0" x:Name="Jugador1" VerticalAlignment="Top" Width="95" RenderTransformOrigin="-0.67,0.391" FontSize="12" FontWeight="Bold" FontFamily="Arial" ><Run Text="Jugador 1"/></TextBlock>
+        <TextBlock Height="23" HorizontalAlignment="Right" Margin="0,75,687,0" x:Name="Jugador2" VerticalAlignment="Top" Width="95" RenderTransformOrigin="-0.67,0.391" FontSize="12" FontWeight="Bold" FontFamily="Arial" ><Run Text="Jugador 2"/></TextBlock>
+        <TextBlock Height="23" HorizontalAlignment="Right" Margin="0,98,687,0" x:Name="Jugador3" VerticalAlignment="Top" Width="95" RenderTransformOrigin="-0.67,0.391" FontSize="12" FontWeight="Bold" FontFamily="Arial" ><Run Text="Jugador 3"/></TextBlock>
+        <TextBlock Height="23" HorizontalAlignment="Right" Margin="0,126,687,0" x:Name="Jugador4" VerticalAlignment="Top" Width="95" RenderTransformOrigin="-0.67,0.391" FontSize="12" FontWeight="Bold" FontFamily="Arial" ><Run Text="Jugador 4"/></TextBlock>
+        <TextBox Height="18" HorizontalAlignment="Right" Margin="0,52,631,0" Name="ApuestaJugador1" VerticalAlignment="Top" Width="86" IsEnabled="False" />
+        <TextBox Height="18" HorizontalAlignment="Right" Margin="0,121,631,0" Name="ApuestaJugador2" VerticalAlignment="Top" Width="86" IsEnabled="False" />
+        <TextBox Height="18" HorizontalAlignment="Right" Margin="0,75,631,0" Name="ApuestaJugador3" VerticalAlignment="Top" Width="86" IsEnabled="False" />
+        <TextBox Height="18" HorizontalAlignment="Right" Margin="0,98,631,0" Name="ApuestaJugador4" VerticalAlignment="Top" Width="86" IsEnabled="False" />
+        <Border BorderThickness="2" BorderBrush="White" CornerRadius="0" Background="Transparent" HorizontalAlignment="Left" VerticalAlignment="Top" Width="592" Height="97" Margin="190,10,0,0">
+            <TextBlock Height="23" HorizontalAlignment="Center" Margin="8,8,485,0" x:Name="Informacion" VerticalAlignment="Top" Width="95" RenderTransformOrigin="-0.658,0.391" FontSize="18" FontWeight="Bold" FontFamily="TImes New Roman" ><Run Text="Informaci"/><Run Text="ó"/><Run Text="n"/></TextBlock>
+        </Border>
+        <Border BorderThickness="2" BorderBrush="White" CornerRadius="0" Background="Transparent" HorizontalAlignment="Left" VerticalAlignment="Top" Width="410" Height="97" Margin="372,312,0,0">
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="8,8,304,0" x:Name="Opciones" VerticalAlignment="Top" Width="94" RenderTransformOrigin="-0.658,0.391" FontSize="18" FontWeight="Bold" FontFamily="TImes New Roman" >Opciones</TextBlock>
+        </Border>
+        <Button Content="Call" Height="30" HorizontalAlignment="Right" Margin="0,353,346,0" Name="Call" VerticalAlignment="Top" Width="61" FontSize="18" FontWeight="SemiBold" FontFamily="Arial" />
+        <Button Content="Fold" Height="30" HorizontalAlignment="Right" Margin="0,353,276,0" x:Name="Fold" VerticalAlignment="Top" Width="65" FontSize="18" FontWeight="SemiBold" FontFamily="Arial" />
+        <Button Content="Raise" Height="30" HorizontalAlignment="Right" Margin="0,353,122,0" x:Name="Raise" VerticalAlignment="Top" Width="73" FontSize="18" FontWeight="SemiBold" FontFamily="Arial" Click="Raise_Click" />
+        <Button Content="Check" Height="30" HorizontalAlignment="Right" Margin="0,353,200,0" x:Name="Check" VerticalAlignment="Top" Width="71" FontSize="18" FontWeight="SemiBold" FontFamily="Arial" />
+        <Button Content="Regresar" Height="30" HorizontalAlignment="Right" Margin="0,362,698,0" x:Name="Regresar" VerticalAlignment="Top" Width="84" FontSize="18" FontWeight="SemiBold" FontFamily="Arial" Click="Regresar_Click" />
+        <TextBlock Height="23" HorizontalAlignment="Right" Margin="0,148,687,0" x:Name="Bote" VerticalAlignment="Top" Width="95" RenderTransformOrigin="-0.67,0.391" FontSize="12" FontWeight="Bold" FontFamily="Arial">Bote</TextBlock>
+        <TextBox Height="18" HorizontalAlignment="Right" Margin="0,144,631,0" x:Name="CampoBote" VerticalAlignment="Top" Width="86" IsEnabled="False">0</TextBox>
+        <Border BorderThickness="2" BorderBrush="White" CornerRadius="0" Background="Transparent" HorizontalAlignment="Left" VerticalAlignment="Top" Width="256" Height="184" Margin="190,123,0,0">
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="8,8,0,0" x:Name="ManoInicial" VerticalAlignment="Top" Width="150" RenderTransformOrigin="-0.658,0.391" FontSize="14" FontWeight="Bold" FontFamily="TImes New Roman" >Mano Inicial</TextBlock>
+        </Border>
+        <Border BorderThickness="2" BorderBrush="White" CornerRadius="0" Background="Transparent" HorizontalAlignment="Left" VerticalAlignment="Top" Width="331" Height="184" Margin="451,123,0,0">
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="8,8,0,0" x:Name="CartasAdicionales" VerticalAlignment="Top" Width="150" RenderTransformOrigin="-0.658,0.391" FontSize="14" FontWeight="Bold" FontFamily="TImes New Roman" >Cartas Adicionales</TextBlock>
+        </Border>
+        <TextBlock Height="23" HorizontalAlignment="Right" Margin="0,78,472,0" x:Name="SaldoActual" VerticalAlignment="Top" Width="119" RenderTransformOrigin="-0.67,0.391" FontSize="16" FontWeight="Bold" FontFamily="Arial">Saldo Actual: $</TextBlock>
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,75,400,0" Name="CampoSaldoActual" VerticalAlignment="Top" Width="72" IsEnabled="False" Text="1000" FontSize="18" FontFamily="Arial" FontWeight="SemiBold" />
+        <TextBox Height="27" HorizontalAlignment="Right" Margin="0,355,22,0" Name="CampoRaise" VerticalAlignment="Top" Width="95" IsEnabled="True" />
+    </Grid>
+</Window>
